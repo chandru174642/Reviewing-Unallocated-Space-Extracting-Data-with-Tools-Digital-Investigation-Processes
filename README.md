@@ -1,3 +1,11 @@
+NAME: CHANDRU.P
+
+
+
+
+REG NO:212223110007
+
+
 # Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
@@ -43,6 +51,31 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+
+
+
+ <img width="1412" height="733" alt="Screenshot 2025-09-20 184047" src="https://github.com/user-attachments/assets/76efdc8c-b226-4ffc-b12a-cf952b250b4c" />
+
+ <img width="475" height="367" alt="Screenshot 2025-09-20 184249" src="https://github.com/user-attachments/assets/0ea5b242-cdc8-4f3f-9de7-646a65807c2c" />
+
+
+ <img width="1696" height="896" alt="Screenshot 2025-09-20 185012" src="https://github.com/user-attachments/assets/90dae20c-2fb7-481c-a20a-d5b522eefb2b" />
+
+
+
+ <img width="852" height="522" alt="Screenshot 2025-09-20 185048" src="https://github.com/user-attachments/assets/64ae6e16-65df-4033-8d2a-36ab302b0b7e" />
+
+
+ <img width="1704" height="909" alt="Screenshot 2025-09-20 185157" src="https://github.com/user-attachments/assets/5a700f84-f260-4cc6-ab06-4a87e16d7ba2" />
+
+
+ <img width="1860" height="891" alt="Screenshot 2025-09-20 185359" src="https://github.com/user-attachments/assets/d828b5a9-3b14-4ec7-8fe6-03ac2e082171" />
+
+
+
+
+
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
